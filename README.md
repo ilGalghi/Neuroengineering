@@ -2,7 +2,7 @@
 
 |   | Available | Last Update |
 | ------------- | ------------- | ------------ |
-| Exams | Yes | 2021 |
+| Exams | Yes | 2026 |
 | Homework  | No | - |
 | Notes  | Yes | Jul 2022 |
 | Slides | Yes | 2020 |
